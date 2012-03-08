@@ -86,7 +86,7 @@ Tested with Chrome, Firefox, IE 7+, Safari (Mac/Win/iOS) and Opera.
     </tr>
     <tr>
         <td><code>maximumFontSize</code></td>
-        <td>The minimum factor for the font size of the text within the target element(s).</td>
+        <td>The maximum factor for the font size of the text within the target element(s).</td>
         <td><code>1.0</code></td>
         <td><code>0.0</code> or greater and equal to or greater than <code>minimumFontSize</code></td>
     </tr>
