@@ -1,0 +1,54 @@
+{
+    "name": "Badonkatrunc",
+    "version": "1.0.0",
+    "title": "Badonkatrunc",
+    "author": {
+        "name": "Plexipixel, Inc.",
+        "email": "info@plexipixel.com",
+        "url": "http://plexipixel.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ""
+    },
+    "description": "jQuery plugin for dynamic text layout and truncation. Badonkatrunc dynamically resizes or truncates text to fit within the size constraints of block elements. Can be used both as a \"text-overflow: ellipsis\" polyfill or as a tool for responsive layout. Fully maintains nested inline and block content, including links and images.",
+    "keywords": [
+        "text-overflow",
+        "overflow",
+        "ellipsis",
+        "polyfill",
+        "truncate",
+        "truncation",
+        "excerpt",
+        "summary",
+        "synopsis",
+        "responsive",
+        "resize",
+        "header",
+        "badonkatrunc",
+        "badonkatrunk"
+    ],
+    "homepage": "http://badonkatrunc.com/",
+    "demo": "http://badonkatrunc.com/",
+    "docs": "README.md",
+    "maintainers": [
+        {
+            "name": "Joel Day",
+            "email": "joeld@plexipixel.com",
+            "url": "https://github.com/joelday"
+        },
+        {
+            "name": "David Seelig",
+            "url": "https://github.com/seeligd"
+        }
+    ],
+    "files": [
+        "jquery.badonkatrunc.js",
+        "jquery.badonkatrunc.min.js"
+    ]
+}
