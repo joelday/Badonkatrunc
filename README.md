@@ -9,7 +9,7 @@ Badonkatrunc dynamically resizes or truncates text to fit within the size constr
 Tested with Chrome, Firefox, IE 7+, Safari (Mac/Win/iOS) and Opera.
 
 ###Example Usage  
-    // Limits contents of &lt;header&gt; elements to a single line, truncating when nessecary, based on target element width.
+    // Limits contents of target elements to a single line, truncating when nessecary, based on target element width.
     $('header').badonkatrunc();
     
     // Reduces font size to 70% of the original size before truncating.
