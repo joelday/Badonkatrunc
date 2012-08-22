@@ -1,10 +1,12 @@
 #Badonkatrunc
 ##jQuery plugin for dynamic text layout and truncation  
-Developed by Joel Day (<joeld@plexipixel.com>) at [Plexipixel, Inc.](http://plexipixel.com), creators of Sticky Brand Play&trade;  
-Demos available at [http://badonkatrunc.com](http://badonkatrunc.com) (soon)
+Developed by Joel Day at [Plexipixel, Inc.](http://plexipixel.com), creators of Sticky Brand Play&trade;  
+Demos available at [http://badonkatrunc.com](http://badonkatrunc.com) 
 
 ###Overview  
-Badonkatrunc dynamically resizes or truncates text to fit within the size constraints of block elements. Can be used both as a <code>text-overflow: ellipsis</code> polyfill or as a tool for responsive layout. Fully maintains nested inline and block content, including links and images.
+Badonkatrunc dynamically resizes or truncates text to fit within the size constraints of block elements. 
+Can be used both as a <code>text-overflow: ellipsis</code> polyfill or as a tool for responsive layout. 
+Fully maintains nested inline and block content, including links and images.
 
 Tested with Chrome, Firefox, IE 7+, Safari (Mac/Win/iOS) and Opera.
 
