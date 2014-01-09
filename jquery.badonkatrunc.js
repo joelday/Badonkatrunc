@@ -314,14 +314,8 @@
             init: function() {
                 this.contentHtml = this.target.html();
                 
-                this.settingsWrapper = $('<span style="margin: 0px; padding: 0px; border: 0px;"></span>');
+                this.settingsWrapper = $('<span style="display: block; margin: 0px; padding: 0px; border: 0px;"></span>');
                 this.settingsWrapper.addClass('badonkatrunc-wrapper');
-
-                if (!$.browser.mozilla &&
-                    !$.browser.opera &&
-                    !($.browser.msie && $.browser.version == '7.0')) {
-                    this.settingsWrapper.css('display', 'block');
-                }
 
                 this.target.empty();
                 this.target.append(this.settingsWrapper);
